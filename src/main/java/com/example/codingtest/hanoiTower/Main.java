@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * https://www.acmicpc.net/problem/11729
  */
-public class hanoiTower {
+public class Main {
     static StringBuilder sb = new StringBuilder();
     static int count = 0;
 

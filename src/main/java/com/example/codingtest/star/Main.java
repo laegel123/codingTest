@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * https://www.acmicpc.net/problem/2447
  */
-public class Star10 {
+public class Main {
     static char[][] star;
 
     public static void main(String[] args) throws IOException {

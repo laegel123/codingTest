@@ -3,7 +3,7 @@ package com.example.codingtest.weLoveKriii;
 /**
  * https://www.acmicpc.net/problem/10718
  */
-public class WeLoveKriii {
+public class Main {
 
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();

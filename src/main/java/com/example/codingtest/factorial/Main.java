@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * https://www.acmicpc.net/problem/10872
  */
-public class Factorial {
+public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
