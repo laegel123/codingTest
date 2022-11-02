@@ -1,4 +1,4 @@
-package com.example.codingtest.star;
+package com.example.codingtest.boj2447_별_찍기10;
 
 import java.io.BufferedReader;
 import java.io.IOException;

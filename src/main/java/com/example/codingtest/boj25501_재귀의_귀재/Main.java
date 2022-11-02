@@ -1,4 +1,4 @@
-package com.example.codingtest.palindrome;
+package com.example.codingtest.boj25501_재귀의_귀재;
 
 import java.io.BufferedReader;
 import java.io.IOException;

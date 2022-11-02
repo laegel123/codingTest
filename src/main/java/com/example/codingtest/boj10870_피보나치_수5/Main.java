@@ -1,4 +1,4 @@
-package com.example.codingtest.fibonacci;
+package com.example.codingtest.boj10870_피보나치_수5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

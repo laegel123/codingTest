@@ -1,4 +1,4 @@
-package com.example.codingtest.factorial;
+package com.example.codingtest.boj10872_팩토리얼;
 
 import java.io.BufferedReader;
 import java.io.IOException;

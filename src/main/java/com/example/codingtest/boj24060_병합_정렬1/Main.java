@@ -1,4 +1,4 @@
-package com.example.codingtest.mergeSort;
+package com.example.codingtest.boj24060_병합_정렬1;
 
 /**
  * https://www.acmicpc.net/problem/24060
