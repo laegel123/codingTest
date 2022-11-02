@@ -1,4 +1,4 @@
-package com.example.codingtest.hanoiTower;
+package com.example.codingtest.boj11729_하노이_타워;
 
 import java.io.BufferedReader;
 import java.io.IOException;
