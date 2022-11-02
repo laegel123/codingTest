@@ -49,7 +49,7 @@ public class Main2 {
     }
 
     public static void drawSpace(int x, int y, int depth) {
-        for (int i = x; i < x + depth; x++) {
+        for (int i = x; i < x + depth; i++) {
             for (int j = y; j < y + depth; j++) {
                 star[i][j] = ' ';
             }
