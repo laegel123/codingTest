@@ -1,4 +1,4 @@
-package com.example.codingtest.decomposition;
+package com.example.codingtest.boj2231_분해합;
 
 import java.io.BufferedReader;
 import java.io.IOException;
