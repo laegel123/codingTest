@@ -1,4 +1,4 @@
-package com.example.codingtest.sort;
+package com.example.codingtest.boj2750_수_정렬하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
