@@ -1,4 +1,4 @@
-package com.example.codingtest.chess;
+package com.example.codingtest.boj1018_체스판_다시_칠하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
