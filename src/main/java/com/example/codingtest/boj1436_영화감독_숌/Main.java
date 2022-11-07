@@ -1,4 +1,4 @@
-package com.example.codingtest.movieDirector;
+package com.example.codingtest.boj1436_영화감독_숌;
 
 import java.io.BufferedReader;
 import java.io.IOException;
