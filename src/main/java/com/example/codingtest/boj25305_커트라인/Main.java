@@ -1,4 +1,4 @@
-package com.example.codingtest.cutLine;
+package com.example.codingtest.boj25305_커트라인;
 
 import java.io.BufferedReader;
 import java.io.IOException;
