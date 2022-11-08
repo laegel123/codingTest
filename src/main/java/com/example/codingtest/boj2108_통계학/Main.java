@@ -1,4 +1,4 @@
-package com.example.codingtest.statistics;
+package com.example.codingtest.boj2108_통계학;
 
 import java.io.BufferedReader;
 import java.io.IOException;
