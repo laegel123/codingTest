@@ -1,4 +1,4 @@
-package com.example.codingtest.coordinateSort2;
+package com.example.codingtest.boj11651_좌표_정렬하기2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
