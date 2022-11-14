@@ -1,4 +1,4 @@
-package com.example.codingtest.wordSort;
+package com.example.codingtest.boj1181_단어_정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
