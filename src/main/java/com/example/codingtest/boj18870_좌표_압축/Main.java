@@ -1,4 +1,4 @@
-package com.example.codingtest.coordinateCompression;
+package com.example.codingtest.boj18870_좌표_압축;
 
 import java.io.BufferedReader;
 import java.io.IOException;
