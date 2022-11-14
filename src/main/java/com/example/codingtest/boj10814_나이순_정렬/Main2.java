@@ -1,4 +1,4 @@
-package com.example.codingtest.ageSort;
+package com.example.codingtest.boj10814_나이순_정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
