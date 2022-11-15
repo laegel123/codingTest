@@ -1,4 +1,4 @@
-package com.example.codingtest.nQueen;
+package com.example.codingtest.boj9663_N_Queen;
 
 import java.io.BufferedReader;
 import java.io.IOException;
