@@ -1,4 +1,4 @@
-package com.example.codingtest.nAndM_4;
+package com.example.codingtest.boj15652_N과_M4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
