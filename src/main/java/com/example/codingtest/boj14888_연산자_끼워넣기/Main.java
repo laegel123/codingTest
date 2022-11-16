@@ -1,4 +1,4 @@
-package com.example.codingtest.operatorInter;
+package com.example.codingtest.boj14888_연산자_끼워넣기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
