@@ -1,4 +1,4 @@
-package com.example.codingtest.sudoku;
+package com.example.codingtest.boj2580_스도쿠;
 
 import java.io.BufferedReader;
 import java.io.IOException;
