@@ -8,7 +8,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class Main {
-    static int[][] MAZE;
+    static int[][] MAZE; 
     static boolean[][] VISITED;
     static int X;
     static int Y;
