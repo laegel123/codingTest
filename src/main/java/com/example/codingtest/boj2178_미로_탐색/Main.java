@@ -43,7 +43,7 @@ public class Main {
         while (!queue.isEmpty()) {
             int[] now = queue.poll();
 
-            // 상하좌우 4 방향으로 움직일 수 있으므로, 반복문을 4번 돌린다.
+            // 상하좌우 4 방향으로 움직일 수 있으므로,  반복문을 4번 돌린다.
             for (int i = 0; i < 4; i++) {
                 int newX = now[0] + DISTANCE_X[i];
                 int newY = now[1] + DISTANCE_Y[i];
